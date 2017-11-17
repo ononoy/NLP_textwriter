@@ -1,6 +1,4 @@
 #NLP_textwriter<br>
-[TextGenerator](https://github.com/o-tomox/TextGenerator) や<br>
-[マルコフ連鎖を使って自分らしい文章をツイートする](https://qiita.com/hitsumabushi845/items/647f8bbe8d399f76825c)<br>
 
 参考文献<br>
 [Text Generator- o-tomox ](https://github.com/o-tomox/TextGenerator)
